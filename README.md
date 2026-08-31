@@ -14,4 +14,8 @@ A API Connect é um Produto Mínimo Viável (MVP) desenvolvido para sustentar a 
 
 1. **Clone o repositório:**
    ```bash
+<<<<<<< HEAD
    git clone [https://github.com/fgolivo/api-connect-FabricioGabriel-Olivo.git](https://github.com/fgolivo/api-connect-FabricioGabriel-Olivo.git)
+=======
+   git clone [[https://github.com/fabricioolivo/api-connect-fabricio-olivo.git]]
+>>>>>>> 3cd4226860b4e4195db6d2d32a4a01d47c269aaa
