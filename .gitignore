@@ -1,0 +1,14 @@
+# Dependências do Node (Esta é a regra mais importante)
+node_modules/
+
+# Arquivos de log de erros do NPM
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Arquivos do sistema operacional (Opcional, mas recomendado)
+.DS_Store
+Thumbs.db
+
+# Variáveis de ambiente locais (Caso utilize futuramente)
+.env
