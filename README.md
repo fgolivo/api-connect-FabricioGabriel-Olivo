@@ -10,13 +10,6 @@ A API apiEP2 é um Produto Mínimo Viável (MVP) desenvolvido para sustentar a l
 * **Ferramenta de Desenvolvimento:** Nodemon
 * **Persistência de Dados:** Em memória (Array)
 
-1. **Clone o repositório:**
-   ```bash
-
-   git clone https://github.com/fgolivo/api-connect-FabricioGabriel-Olivo.git
-
-
-
 ## Como Executar Localmente
 1. Clone o repositório:
    ```bash
